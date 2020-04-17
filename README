@@ -9,6 +9,10 @@ If you like any of it, feel free to send a thank you to @tverschoren on Twitter,
 
 ### Guide
 - [Detect succesfull form submission ](guide/submitform.js)
+- [Redirect Single Section category to section](guide/redirect_category.html)
+- [Google Analytics](guide/guide_analytics.js)
+- [Prefill Guide Fields based on URL parameters](guide/prefill.js)
 
 ### Widget
 - [Translate based on Guide Help Center locale](widget/translate.js)
+- [Prefill the logged in Guide user](widget/prefill.js)
