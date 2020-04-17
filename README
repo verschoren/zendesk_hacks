@@ -1,0 +1,14 @@
+# Zendesk code
+The code below is a list of quick hacks and tweaks to Zendesk Guide, Chat and the Widget.
+
+If you like any of it, feel free to send a thank you to @tverschoren on Twitter, Sponsor this account on GitHub or https://www.paypal.me/thomasverschoren
+
+## Hacks
+### Chat
+- [Hide Chat based on department](chat/hidechat.js)
+
+### Guide
+- [Detect succesfull form submission ](guide/submitform.js)
+
+### Widget
+- [Translate based on Guide Help Center locale](widget/translate.js)
